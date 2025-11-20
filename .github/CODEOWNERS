@@ -1,0 +1,8 @@
+# Controllers handled by backend dev
+/Controllers/* @ITHanan
+
+# Domain logic handled by architect
+/Domain/* @ITHanan
+
+# Common utils reviewed by both
+/Common/*  @ITHanan
